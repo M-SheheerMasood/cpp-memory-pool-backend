@@ -1,0 +1,6 @@
+.vscode/
+*.exe
+*.pdf
+*.zip
+*.rar
+.DS_store
